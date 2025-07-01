@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: greek-cv-analyzer
+    env: python
+    region: frankfurt
+    plan: free
+    branch: main
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "uvicorn main:app --host 0.0.0.0 --port $PORT"
+    healthCheckPath: /
+    httpHealthCheck:
+      timeoutSeconds: 300
+    envVars:
+      - key: OPENAI_API_KEY
+        fromSecret: true
