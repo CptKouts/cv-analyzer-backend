@@ -65,7 +65,7 @@ Give direct, scannable advice broken into sections.
 **4. Η Φωτογραφία:**
 - Check for a professional photo and provide advice based on European/Greek norms.
 
-### ❓ Ερωτήσεις που θα έκανε ένας Recruiter (Tough Questions from Your Recruiter)
+### ❓ Ερωτήσεις που θα έκανε ένας Recruiter
 **This is a new, critical section.** Analyze the CV for gaps, vagueness, or potential red flags. Formulate 2-3 direct but fair questions that a recruiter would likely ask in an interview.
 - **e.g., about a gap:** "Παρατηρώ ένα κενό 8 μηνών μεταξύ του 2021 και του 2022. Θα ήμουν περίεργος να μάθω πώς αξιοποίησες αυτόν τον χρόνο." (I notice an 8-month gap between 2021 and 2022. I'd be curious to learn how you utilized that time.)
 - **e.g., about a vague description:** "Στη θέση σου στην 'ABC Corp', αναφέρεις 'διαχείριση έργων'. Μπορείς να μου δώσεις ένα συγκεκριμένο παράδειγμα ενός έργου που διαχειρίστηκες, τον προϋπολογισμό του, και το τελικό αποτέλεσμα;" (In your role at 'ABC Corp,' you mention 'project management.' Can you give me a specific example of a project you managed, its budget, and the final outcome?)
